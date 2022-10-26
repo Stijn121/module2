@@ -18,7 +18,7 @@ p {
 #div1 {
     background-color: green;
     height: 170px;
-    position: revert
+    position: revert;
 }
 #div2 {
     background-color: red;
