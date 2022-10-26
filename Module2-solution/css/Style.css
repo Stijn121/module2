@@ -33,6 +33,18 @@ p {
     position: relative;
 }
 
+#naam1 {
+    background-color: red;
+}
+
+#naam2 {
+    background-color: blue;
+}
+
+#naam3 {
+    background-color: green;
+}
+
 .inhoud {
     border: 5px solid black;
     width: 90%;
