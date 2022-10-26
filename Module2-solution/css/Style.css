@@ -48,7 +48,7 @@ p {
 .inhoud {
     border: 5px solid black;
     width: 90%;
-    height: auto;
+    height: 200px;
     margin: 2.5%;
     color: black;
     font-size: 25px;
