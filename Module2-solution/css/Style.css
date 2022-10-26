@@ -17,27 +17,31 @@ p {
     color: white;
 }
 
-/* Simple Responsive Framework. */
 .row {
     width: 100%;
 }
 
 @media (min-width: 992px) {
-    .col-md-1 {
+    .col-md-1, .col-md-2 {
         float: left;
         border: 1px solid green;
         width: 33.33%;
     }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-    .col-md-1 {
+    .col-md-1, .col-md-2 {
         float: left;
         border: 1px solid green;
+    }
+    .col-md-1{
         width: 50%;
+    }
+    .col-md-2 {
+        width: 100%;
     }
 }
 @media (max-width: 767px) {
-    .col-md-1 {
+    .col-md-1, .col-md-2 {
         float: left;
         border: 1px solid green;
         width: 100%;
