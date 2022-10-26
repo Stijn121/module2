@@ -1,6 +1,6 @@
-﻿* {
+﻿/** {
     box-sizing: border-box;
-}
+}*/
 
 h1 {
     margin-bottom: 15px;
@@ -16,6 +16,7 @@ p {
     font-family: Helvetica;
     color: black;
 }
+
 
 .row {
     width: 100%;
