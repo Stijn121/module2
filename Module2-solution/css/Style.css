@@ -4,7 +4,6 @@
 
 h1 {
     margin-bottom: 15px;
-    position: center;
 }
 
 p {
@@ -18,7 +17,6 @@ p {
 #div1 {
     background-color: green;
     height: 170px;
-    position: revert;
 }
 #div2 {
     background-color: red;
