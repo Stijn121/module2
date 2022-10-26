@@ -17,14 +17,20 @@ p {
 #div1 {
     background-color: green;
     height: 170px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 #div2 {
     background-color: red;
     height: 170px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 #div3 {
     background-color: blue;
     height: 170px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 @media (min-width: 992px) {
