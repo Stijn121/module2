@@ -8,7 +8,7 @@ h1 {
 
 p {
     background-color: white;
-    height: 150px;
+    height: auto;
     margin-right: auto;
     margin-left: auto;
     font-family: Helvetica;
@@ -26,10 +26,6 @@ p {
     background-color: blue;
     height: 170px;
 }
-.row {
-    width: 100%;
-    height: 170px;
-}
 
 @media (min-width: 992px) {
     .col-md-1, .col-md-2 {
@@ -41,7 +37,7 @@ p {
 @media (min-width: 768px) and (max-width: 991px) {
     .col-md-1, .col-md-2 {
         float: left;
-        border: 1px solid green;
+        border: 1px solid black;
     }
     .col-md-1{
         width: 50%;
@@ -53,7 +49,7 @@ p {
 @media (max-width: 767px) {
     .col-md-1, .col-md-2 {
         float: left;
-        border: 1px solid green;
+        border: 1px solid black;
         width: 100%;
     }
 }
