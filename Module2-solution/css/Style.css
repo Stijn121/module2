@@ -16,6 +16,7 @@ p {
 }
 #div1 {
     background-color: green;
+    height: 10px;
 }
 #div2 {
     background-color: red;
