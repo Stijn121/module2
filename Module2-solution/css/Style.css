@@ -16,12 +16,15 @@ p {
 }
 #div1 {
     background-color: green;
+    height: 150px;
 }
 #div2 {
     background-color: red;
+    height: 150px;
 }
 #div3 {
     background-color: blue;
+    height: 150px;
 }
 .row {
     width: 100%;
